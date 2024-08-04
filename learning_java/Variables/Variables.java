@@ -1,4 +1,4 @@
-public class Hello_World{
+public class Variables{
 
     public static void main(String[] args){
         int myNumber;
