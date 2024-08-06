@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayExample",
+            "request": "launch",
+            "mainClass": "ArrayExample",
+            "projectName": "learning_java-1_8bfe7d7"
+        },
+        {
+            "type": "java",
+            "name": "ArrayExample",
+            "request": "launch",
+            "mainClass": "arrays.ArrayExample",
+            "projectName": "learning_java-1_8bfe7d7"
+        },
+        {
+            "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "arrays.array",
+            "projectName": "learning_java-1_8bfe7d7"
+        },
+        {
+            "type": "java",
             "name": "switch_statements",
             "request": "launch",
             "mainClass": "switch_statements",

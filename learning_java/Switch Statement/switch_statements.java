@@ -7,6 +7,7 @@ public class switch_statements{
         System.out.println("Please enter a command: ");
         String text = input.nextLine();
 
+        //text value can either be int or string
         switch(text){
         case "start":
             System.out.println("Machine Started!");
