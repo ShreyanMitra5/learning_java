@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Result",
+            "request": "launch",
+            "mainClass": "Result",
+            "projectName": "learning_java-1_8bfe7d7"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "learning_java-1_8bfe7d7"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "learning_java-1_8bfe7d7"
+        },
+        {
+            "type": "java",
+            "name": "Variables",
+            "request": "launch",
+            "mainClass": "Variables",
+            "projectName": "learning_java-1_8bfe7d7"
+        },
+        {
+            "type": "java",
+            "name": "for_loops",
+            "request": "launch",
+            "mainClass": "for_loops",
+            "projectName": "learning_java-1_8bfe7d7"
+        },
+        {
+            "type": "java",
+            "name": "if_statement",
+            "request": "launch",
+            "mainClass": "if_statement",
+            "projectName": "learning_java-1_8bfe7d7"
+        },
+        {
+            "type": "java",
+            "name": "new_types",
+            "request": "launch",
+            "mainClass": "new_types",
+            "projectName": "learning_java-1_8bfe7d7"
+        },
+        {
+            "type": "java",
+            "name": "user_input",
+            "request": "launch",
+            "mainClass": "user_input",
+            "projectName": "learning_java-1_8bfe7d7"
+        },
+        {
+            "type": "java",
+            "name": "user_input2",
+            "request": "launch",
+            "mainClass": "user_input2",
+            "projectName": "learning_java-1_8bfe7d7"
+        },
+        {
+            "type": "java",
+            "name": "user_input3",
+            "request": "launch",
+            "mainClass": "user_input3",
+            "projectName": "learning_java-1_8bfe7d7"
+        },
+        {
+            "type": "java",
+            "name": "while_do",
+            "request": "launch",
+            "mainClass": "while_do",
+            "projectName": "learning_java-1_8bfe7d7"
+        },
+        {
+            "type": "java",
+            "name": "while_loop_if",
+            "request": "launch",
+            "mainClass": "while_loop_if",
+            "projectName": "learning_java-1_8bfe7d7"
+        },
+        {
+            "type": "java",
+            "name": "while_loops",
+            "request": "launch",
+            "mainClass": "while_loops",
+            "projectName": "learning_java-1_8bfe7d7"
+        }
+    ]
+}
