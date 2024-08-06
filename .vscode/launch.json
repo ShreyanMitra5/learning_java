@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "constructors",
+            "request": "launch",
+            "mainClass": "learning_java.constructors.constructors",
+            "projectName": "learning_java-1_8bfe7d7"
+        },
+        {
+            "type": "java",
+            "name": "setters",
+            "request": "launch",
+            "mainClass": "learning_java.setters.setters",
+            "projectName": "learning_java-1_8bfe7d7"
+        },
+        {
+            "type": "java",
+            "name": "parameters",
+            "request": "launch",
+            "mainClass": "learning_java.method_parameters.parameters",
+            "projectName": "learning_java-1_8bfe7d7"
+        },
+        {
+            "type": "java",
+            "name": "getter_return",
+            "request": "launch",
+            "mainClass": "learning_java.getters_return.getter_return",
+            "projectName": "learning_java-1_8bfe7d7"
+        },
+        {
+            "type": "java",
+            "name": "Gr",
+            "request": "launch",
+            "mainClass": "Gr",
+            "projectName": "learning_java-1_8bfe7d7"
+        },
+        {
+            "type": "java",
+            "name": "gr",
+            "request": "launch",
+            "mainClass": "gr",
+            "projectName": "learning_java-1_8bfe7d7"
+        },
+        {
+            "type": "java",
+            "name": "cb",
+            "request": "launch",
+            "mainClass": "cb",
+            "projectName": "learning_java-1_8bfe7d7"
+        },
+        {
+            "type": "java",
+            "name": "RedFruit",
+            "request": "launch",
+            "mainClass": "RedFruit",
+            "projectName": "learning_java-1_8bfe7d7"
+        },
+        {
+            "type": "java",
+            "name": "md",
+            "request": "launch",
+            "mainClass": "md",
+            "projectName": "learning_java-1_8bfe7d7"
+        },
+        {
+            "type": "java",
+            "name": "md",
+            "request": "launch",
+            "mainClass": "learning_java.multidimensional_array.md",
+            "projectName": "learning_java-1_8bfe7d7"
+        },
+        {
+            "type": "java",
             "name": "array_strings",
             "request": "launch",
             "mainClass": "array_strings",
