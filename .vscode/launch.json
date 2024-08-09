@@ -6,6 +6,104 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PPP",
+            "request": "launch",
+            "mainClass": "learning_java.public_private_protected.PPP",
+            "projectName": "learning_java-1_8bfe7d7"
+        },
+        {
+            "type": "java",
+            "name": "interface2",
+            "request": "launch",
+            "mainClass": "learning_java.interfaces_1.interface2",
+            "projectName": "learning_java-1_8bfe7d7"
+        },
+        {
+            "type": "java",
+            "name": "fish",
+            "request": "launch",
+            "mainClass": "learning_java.package_1.ocean.fish",
+            "projectName": "learning_java-1_8bfe7d7"
+        },
+        {
+            "type": "java",
+            "name": "pack",
+            "request": "launch",
+            "mainClass": "learning_java.package_1.pack",
+            "projectName": "learning_java-1_8bfe7d7"
+        },
+        {
+            "type": "java",
+            "name": "Fish",
+            "request": "launch",
+            "mainClass": "Fish",
+            "projectName": "learning_java-1_8bfe7d7"
+        },
+        {
+            "type": "java",
+            "name": "fish",
+            "request": "launch",
+            "mainClass": "fish",
+            "projectName": "learning_java-1_8bfe7d7"
+        },
+        {
+            "type": "java",
+            "name": "pack",
+            "request": "launch",
+            "mainClass": "pack",
+            "projectName": "learning_java-1_8bfe7d7"
+        },
+        {
+            "type": "java",
+            "name": "inher",
+            "request": "launch",
+            "mainClass": "learning_java.inheritance.inher",
+            "projectName": "learning_java-1_8bfe7d7"
+        },
+        {
+            "type": "java",
+            "name": "tos",
+            "request": "launch",
+            "mainClass": "learning_java.to_string.tos",
+            "projectName": "learning_java-1_8bfe7d7"
+        },
+        {
+            "type": "java",
+            "name": "st",
+            "request": "launch",
+            "mainClass": "st",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "st",
+            "request": "launch",
+            "mainClass": "learning_java.string.st",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "st",
+            "request": "launch",
+            "mainClass": "st",
+            "projectName": "learning_java-1_8bfe7d7"
+        },
+        {
+            "type": "java",
+            "name": "string",
+            "request": "launch",
+            "mainClass": "string",
+            "projectName": "learning_java-1_8bfe7d7"
+        },
+        {
+            "type": "java",
+            "name": "stat",
+            "request": "launch",
+            "mainClass": "stat",
+            "projectName": "learning_java-1_8bfe7d7"
+        },
+        {
+            "type": "java",
             "name": "constructors",
             "request": "launch",
             "mainClass": "learning_java.constructors.constructors",

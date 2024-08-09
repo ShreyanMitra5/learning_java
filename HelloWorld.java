@@ -1,6 +1,10 @@
 public class HelloWorld {
     public static void main(String[] args) {
-        printHelloWorld();
+        //printHelloWorld();
+        String text;
+        text = "hello";
+        String text1 = "abc";
+        
     }
     
     public static void printHelloWorld() {
@@ -15,5 +19,6 @@ public class HelloWorld {
         else {
             return N;
         }
+        
     }
 }
